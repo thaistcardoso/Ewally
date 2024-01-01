@@ -75,7 +75,7 @@ server.get('/recommendatons/:CPF'), (req, res) => {
     const CPF = req.params;
 
     if (CPF.length != 11) { 
-        return res.status(400).json({ message: 'CPF precisa conter 11 digitos' });
+        return res.status(404).json({ message: 'CPF precisa conter 11 digitos' });
     }
 }
 
