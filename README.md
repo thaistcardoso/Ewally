@@ -7,5 +7,6 @@
 
  ## Instruções
 - Clonar o repositório para o seu computador 
-- Acessar o diretório do repositório e digitar o comando "npm install"
+- Acessar o diretório do repositório e digitar o comando "npm install".
+- Execute o comando npm start para iniciar o servidor
 - Para ter acesso ao servidor acesse http://localhost:3000
