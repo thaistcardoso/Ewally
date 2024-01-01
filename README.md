@@ -1,5 +1,5 @@
 # Recomendador de amigos
- É um sistema que permita que uma pessoa obtenha sugestões de novos amigos se baseando nas amizades já existentes.
+ É um sistema que permite que uma pessoa obtenha sugestões de novos amigos se baseando nas amizades já existentes.
 
  ## Linguagens e ferramentas utilizadas
  - Node.js
